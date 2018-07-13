@@ -1,0 +1,2 @@
+I am now able to make git repostory 
+I am using git to control the version of the program
