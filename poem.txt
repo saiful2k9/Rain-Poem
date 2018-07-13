@@ -10,4 +10,6 @@ Violet
 Green
 Yellow
 unicorn
+Indigo
+Indigo is added to the list
 There are seven colors in Rainbow
