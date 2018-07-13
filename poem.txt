@@ -5,7 +5,9 @@ Pink
 Orange
 Blue
 Red
+unicorn
 Violet
 Green
 Yellow
+unicorn
 There are seven colors in Rainbow
