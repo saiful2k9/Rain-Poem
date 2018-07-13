@@ -7,4 +7,5 @@ Blue
 Red
 Violet
 Green
+Yellow
 There are seven colors in Rainbow
